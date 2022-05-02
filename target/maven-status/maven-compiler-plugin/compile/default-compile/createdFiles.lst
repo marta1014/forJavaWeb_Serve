@@ -1,0 +1,12 @@
+com/pojo/PageBean.class
+com/servlet/lowCode/ServletForSelectAllBrand.class
+com/servlet/lowCode/ServletDeleteBrandById.class
+com/servlet/BrandServlet.class
+com/servlet/BaseServlet.class
+com/Mapper/BrandMapper.class
+com/util/SqlSessionFactoryUtil.class
+com/pojo/Brand.class
+com/servlet/lowCode/ServletForUpdateBrandInfo.class
+com/service/ServiceBrand.class
+com/service/BrandService.class
+com/service/com/service/impl/BrandServiceImpl.class
